@@ -1,2 +1,2 @@
 # DFS-BFS
-basic concept of DFS/BFS and some problems from beakjoon oline judge
+basic concept of Search algorithm and some problems from beakjoon oline judge
